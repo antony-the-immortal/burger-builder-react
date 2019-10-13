@@ -1,0 +1,18 @@
+
+@import './assets/styles/_bb-variables.scss';
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+.App-link {
+  color: $teal;
+}
+main{
+  display: flex;
+  height: 100vh;
+  margin-top:56px
+}
